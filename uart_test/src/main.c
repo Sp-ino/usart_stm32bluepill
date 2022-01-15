@@ -1,3 +1,12 @@
+/*
+ * USB bulk transfer example
+ * 
+ * Copyright (c) 2022 Valerio Spinogatti
+ * Licensed under GNU license
+ * 
+ * main.c
+ */
+
 #include "uart.h"
 #include "util.h"
 
